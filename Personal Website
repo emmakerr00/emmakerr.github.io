@@ -1,10 +1,9 @@
-git clone https://github.com/emmakerr/emmakerr.github.io
-cd emmakerr.github.io
-echo "Hello World" > index.html
-git add --all
-git commit -m "Initial commit"
-git push -u origin main
+<html>
 
+<body>
+  <h1>YOUR NAME</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
 
-gem 'bay_jekyll_theme', '~> 1.0', '>= 1.0.20'
-gem install bay_jekyll_theme
+</html>
